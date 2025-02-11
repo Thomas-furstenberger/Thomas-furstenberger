@@ -12,12 +12,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-furstenberger&layout=compact&theme=radical)
-
----
-
 ### 🚀 Featured Projects
 
 🔹 [**Tower Defense in C++**](https://github.com/Azurioh/epitech-game-jam-february) - A Tower Defense game developed in C++ during an Epitech jam.
