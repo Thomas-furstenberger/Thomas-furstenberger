@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 ### 🚀 Featured Projects
 
 🔹 [**Tower Defense in C++**](https://github.com/thomas-furstenberger/tower-defense) - A Tower Defense game developed in C++ during an Epitech jam.
+
 🔹 [**Arnald Story's (RPG in C)**](https://github.com/painaunoix/MY_RPG) - An RPG developed in C as a year-end project.
 
 ---
