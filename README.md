@@ -14,26 +14,19 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thomas-furstenberger&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-furstenberger&layout=compact&theme=radical)
 
 ---
 
 ### 🚀 Featured Projects
 
-🔹 [**Project Name**](https://github.com/thomas-furstenberger/projectname) - Short description of what it does.  
-🔹 [**Another Project**](https://github.com/thomas-furstenberger/projectname) - Another short description.  
+🔹 [**Tower Defense in C++**](https://github.com/thomas-furstenberger/tower-defense) - A Tower Defense game developed in C++ during an Epitech jam.
 
 ---
 
 ### 🌍 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-furstenberger) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thomas-furstenberger)
-
----
-
-⭐️ **Fun Fact:** `Your fun fact here!`
 
 ---
 
