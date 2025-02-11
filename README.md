@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building cool stuff with code. 🚀
 
-![Epitech](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Epitech.png/200px-Epitech.png)
-
 ---
 
 ### 🛠️ Tech Stack
