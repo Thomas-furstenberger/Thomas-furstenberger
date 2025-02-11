@@ -12,15 +12,22 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 
 ---
 
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-furstenberger&layout=compact&theme=radical)
+
+---
+
 ### 🚀 Featured Projects
 
-🔹 [**Tower Defense in C++**](https://github.com/Azurioh/epitech-game-jam-february) - A Tower Defense game developed in C++ during an Epitech jam.
+🔹 [**Tower Defense in C++**](https://github.com/thomas-furstenberger/tower-defense) - A Tower Defense game developed in C++ during an Epitech jam.
+🔹 [**Arnald Story's (RPG in C)**](https://github.com/painaunoix/MY_RPG) - An RPG developed in C as a year-end project.
 
 ---
 
 ### 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-furstenberger)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-furstenberger) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thomas-furstenberger)
 
 ---
 
