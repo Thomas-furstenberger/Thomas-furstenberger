@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 
 ### 🚀 Featured Projects
 
-🔹 [**Tower Defense in C++**]([https://github.com/thomas-furstenberger/tower-defense](https://github.com/Azurioh/epitech-game-jam-february)) - A Tower Defense game developed in C++ during an Epitech jam.
+🔹 [**Tower Defense in C++**](https://github.com/Azurioh/epitech-game-jam-february) - A Tower Defense game developed in C++ during an Epitech jam.
 
 ---
 
